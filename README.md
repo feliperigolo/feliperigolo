@@ -1,7 +1,7 @@
-Olá! Me chamo Felipe e tenho 33 anos
-Estou aqui interessado em aprender sobre linguagens de programação
-Atualmente estou estudando Python e buscando aprimorar meus conhecimentos que são básicos
-Você pode me enviar mensagem para feliperigolo@gmail.com
+Olá! Me chamo Felipe e tenho 33 anos,
+estou aqui interessado em aprender sobre linguagens de programação,
+atualmente estou estudando Python e buscando aprimorar meus conhecimentos que são básicos.
+Você pode me enviar mensagem em feliperigolo@gmail.com
 
 
 <!---
