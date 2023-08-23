@@ -1,6 +1,7 @@
-Olá! Me chamo Felipe e tenho 33 anos,
-estou aqui interessado em aprender sobre linguagens de programação,
-atualmente estou estudando Python e buscando aprimorar meus conhecimentos que são básicos.
+Olá! Me chamo Felipe e estou em transição de carreira para área de analytics e data science,
+no momento estou estuando Python e MySQL para aprender programar e manipular dados,
+recentemente iniciei uma formação em Análise e Ciência de Dados pela PoD Academy.
+Sou formado em Administração de Empresas com ênfase em Finanças e possuo um MBA em Gestão Tributária.
 Você pode me enviar mensagem em feliperigolo@gmail.com
 
 
