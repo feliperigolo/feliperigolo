@@ -1,8 +1,36 @@
-Olá! Me chamo Felipe e estou em transição de carreira para área de analytics e data science,
-no momento estou estuando Python e MySQL para aprender programar e manipular dados,
-recentemente iniciei uma formação em Análise e Ciência de Dados pela PoD Academy.
-Sou formado em Administração de Empresas com ênfase em Finanças e possuo um MBA em Gestão Tributária.
-Você pode me enviar mensagem em feliperigolo@gmail.com
+### Olá, bem vindo ao meu perfil do GitHub!👏👏
+#### Meu nome é Felipe Pereira Rigolo e meu perfil aqui é feliperigolo 💪💪
+
+  ##### 🎓 Formado em Administração de Empresas com Ênfase em Finanças e MBA em Gestão Tributária
+  ##### 😎 Atuo no setor financeiro desde o início da minha carreira
+  ##### 🤩 Atualmente em transição de carreira para a área de dados e analytics
+  ##### 🤑 Apesar da transição, ainda gosto muito do mercado financeiro, em específico a área de invesimentos em bolsa de valores
+  ##### 🤓 Sou ávido por conhecimento e estou sempre buscando aprender novas competências
+  ##### 📖 Atualmente adiquirindo conhecimento em Python, SQL, Power BI e cloud computing para a minha migração de carreira
+  ##### 🚲 Gosto muito de praticar ciclismo de estrada e moutain bike 
+  ##### 🏖 Eu e minha família adoramos viajar para a praia
+
+
+### Tecnologias e ferramentas
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"></i>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"></i>
+
+
+### Conecte-se comigo
+<a href="https://www.linkedin.com/in/feliperigolo/" target="_blank">
+<img align="center" alt="felipe-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+style="max-width:100%;">
+</a>
+          
+          
+
+
+
+
+
+
+
+
 
 
 <!---
